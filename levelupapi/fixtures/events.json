@@ -1,0 +1,25 @@
+[
+  {
+      "model": "levelupapi.event",
+      "pk": 1,
+      "fields": {
+        "game": 1,
+        "description": "Let's Play!",
+        "date": "2024-5-17",
+        "time": "19:00",
+        "organizer": 1
+      }
+  },
+  {
+    "model": "levelupapi.event",
+    "pk": 2,
+    "fields": {
+      "game": 2,
+      "description": "Game Night: The Night Friendships End",
+      "date": "2024-5-18",
+      "time": "18:00",
+      "organizer": 1
+    }
+  }
+
+]
